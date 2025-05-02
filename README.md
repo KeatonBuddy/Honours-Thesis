@@ -37,6 +37,16 @@ Generated histograms illustrating mutation hotspots and changes in mutation rate
 ### Datasets: 
 Curated datasets used for mutation rate calculation and heteroplasmy analysis, clearly labelled and formatted.
 
+### Manuscripts
+- **Honours Thesis**  
+  - `BanikK_508_Thesis.pdf` — Final submitted honours thesis manuscript.  
+  - `HETEROPLASMY IN HUMAN MITOCHONDRIAL GENOME MUTATION RATES DIFFERENCES..pptx` — Thesis defense presentation slides.
+- **Project Proposal**  
+  - `Proposal.pdf` — Original research proposal for MDSC 508.
+  - `BanikKeaton_NP.docx` — Novel presentation write-up.
+  - `BanikKeaton_PS2.docx` — Problem summary assignment write-up.
+
+
 ## Key Findings
 
 - Initial mutation rate estimates significantly exceeded literature values, showing a 14.9-to-22.4-fold increase when including heteroplasmic variants.
