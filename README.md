@@ -2,6 +2,8 @@
 
 This project investigates the discrepancy observed between mitochondrial genome mutation rates calculated from pedigree-based studies and substitution rates from phylogeny-based analyses. The primary aim was to assess hypotheses explaining this difference, specifically focusing on the role of heteroplasmy—where cells contain multiple mitochondrial DNA (mtDNA) genotypes—in inflating mutation rate estimates.
 
+*This work was conducted to fulfill MDSC 508 and the Bachelors of Health Sciences in Bioinformatics Honours thesis at the University of Calgary.*
+
 ## Objectives
 
 - Evaluate the reasons behind the divergent mutation rates observed in pedigree and phylogenetic studies.
