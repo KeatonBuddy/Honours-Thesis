@@ -42,10 +42,7 @@ Curated datasets used for mutation rate calculation and heteroplasmy analysis, c
   - `BanikK_508_Thesis.pdf` — Final submitted honours thesis manuscript.  
   - `HETEROPLASMY IN HUMAN MITOCHONDRIAL GENOME MUTATION RATES DIFFERENCES..pptx` — Thesis defense presentation slides.
 - **Project Proposal**  
-  - `Proposal.pdf` — Original research proposal for MDSC 508.
-  - `BanikKeaton_NP.docx` — Novel presentation write-up.
-  - `BanikKeaton_PS2.docx` — Problem summary assignment write-up.
-
+  - `BanikKB_ThesisProposal.pdf` — Original research proposal for MDSC 508.
 
 ## Key Findings
 
